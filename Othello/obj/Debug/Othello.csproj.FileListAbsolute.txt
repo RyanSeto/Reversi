@@ -1,0 +1,26 @@
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.exe
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.pdb
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\ResolveAssemblyReference.cache
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Form1.resources
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.exe
+E:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.pdb
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.exe
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.pdb
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.exe
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.pdb
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\ResolveAssemblyReference.cache
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Form1.resources
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+J:\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\Ryan\Documents\Computer Science\Grade 11\Programs\2D Array Assignment\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Projects\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\Ryan\Documents\Projects\Othello\Othello\obj\Debug\Othello.pdb
